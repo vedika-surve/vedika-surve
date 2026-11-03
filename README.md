@@ -1,16 +1,15 @@
-## Hi there 👋
+ # Hi, I'm Vedika 👋
 
-<!--
-**vedika-surve/vedika-surve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst from Mumbai, currently learning Data Science with AI/ML.
 
-Here are some ideas to get you started:
+## Skills
+- **Analysis & BI:** Excel, Power BI, Tableau
+- **Database:** SQL
+- **Learning now:** Python (pandas, matplotlib), basic machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [E-commerce Sales Dashboard](https://github.com/vedika-surve/E-commerce-Sales-Dashboard): Power BI dashboard on store sales
+- [Pizza Sales Analysis](https://github.com/vedika-surve/Pizza-Sales-Analysis): sales trends and insights
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/vedika-surve/)
